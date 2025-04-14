@@ -18,10 +18,12 @@ A passionate and versatile Electronic Engineer with a diverse background spannin
 
 I'm keen to collaborate on projects related to:
 
+* Aerospace exploration.
+* Hardware creation. 
 * Quantum computing and its integration with other technologies.
 * Cybersecurity solutions and vulnerability research.
 * Software development projects, particularly those involving Go, Python, or fintech.
-* Aerospace technologies. 
+
 
 ### 💬 Let's Talk About
 
